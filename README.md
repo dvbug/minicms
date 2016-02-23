@@ -1,0 +1,2 @@
+# minicms
+django minicms
